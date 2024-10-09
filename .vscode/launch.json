@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExchangerDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.ExchangerDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "CyclicBarierDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.CyclicBarierDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "BlockingQueueDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.BlockingQueueDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "CountDownLatchDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.CountDownLatchDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "SynchronizedCollectionsDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.SynchronizedCollectionsDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "CallableExampleDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.CallableExampleDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "SschduledThreadDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.SschduledThreadDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "CahchedPoolDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.CahchedPoolDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "FixedThreadPool",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.FixedThreadPool",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "SingleThreadedServiceDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_pool.SingleThreadedServiceDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "ProducerConsumerExample",
+            "request": "launch",
+            "mainClass": "threads.producer_consumer.ProducerConsumerExample",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "SendReceiveExmaple",
+            "request": "launch",
+            "mainClass": "threads.send_receive.SendReceiveExmaple",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "ThreadStateDemo",
+            "request": "launch",
+            "mainClass": "threads.thread_states.ThreadStateDemo",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "ThreadSyncExample",
+            "request": "launch",
+            "mainClass": "threads.thread_sync.ThreadSyncExample",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "ThreadPriorityExample",
+            "request": "launch",
+            "mainClass": "threads.priority.ThreadPriorityExample",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "DaemonThreadsExmaple",
+            "request": "launch",
+            "mainClass": "threads.main_daemon.DaemonThreadsExmaple",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "JoinThreadExample",
+            "request": "launch",
+            "mainClass": "threads.join_thread.JoinThreadExample",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "threads.thread_creation.Main",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "streams.Main",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "Maps",
+            "request": "launch",
+            "mainClass": "collections_framwork.maps.Maps",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
+            "name": "Collections",
+            "request": "launch",
+            "mainClass": "collections_framwork.collections.Collections",
+            "projectName": "java_workspace_ccd18d71"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
